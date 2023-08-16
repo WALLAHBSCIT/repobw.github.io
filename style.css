@@ -1,0 +1,15 @@
+nav, a{
+    box-align: justify ;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    :hover{color: rgb(0, 136, 255);}
+    :visited{color: rgb(0, 0, 0);}
+    }
+    nav{
+        background-color: rgba(2, 184, 145, 0.162);
+        overflow: hidden;
+    }
+    #box{
+        background-color: azure;
+    }
